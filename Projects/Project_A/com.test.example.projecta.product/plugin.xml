@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         id="ProductAID"
+         point="org.eclipse.core.runtime.products">
+      <product
+            application="com.test.example.ui.application"
+            name="ProductA">
+         <property
+               name="appName"
+               value="ProductA">
+         </property>
+      </product>
+   </extension>
+
+</plugin>
