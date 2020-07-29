@@ -3,5 +3,5 @@ target
 xtend-gen
 .xtendbin
 ._trace
-.bak
+*.bak
 
