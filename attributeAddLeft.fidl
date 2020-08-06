@@ -15,7 +15,7 @@ interface test {
 		}
 	}
 	method Server1 {
-		out {
+		out { 
 			Int32 number
 		}
 	}
