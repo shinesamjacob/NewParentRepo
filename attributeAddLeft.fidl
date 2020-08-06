@@ -14,7 +14,7 @@ interface test {
 			Int32 res1
 		}
 	}
-	method Server1 { 
+	method Server2 { 
 		in{
 			Int32 num1 
 			Int32 num2  
