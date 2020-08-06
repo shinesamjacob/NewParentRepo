@@ -14,11 +14,7 @@ interface test {
 			Int32 res1
 		}
 	}
-	method Server1 {
-		out { 
-			Int32 number
-		}
-	}
+	
 
 	attribute Boolean attr1
 	 
