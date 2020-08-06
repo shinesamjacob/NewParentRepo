@@ -3,7 +3,7 @@ package com.harman.dcif
 interface test {
 	version {
 		major 0
-		minor 1
+		minor 2
 	}
 	method Server { 
 		in{
@@ -27,4 +27,4 @@ interface test {
 
 	attribute Boolean attr1
 	 
-}   
+}
