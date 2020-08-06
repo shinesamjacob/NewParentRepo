@@ -22,4 +22,4 @@ interface test {
 
 	attribute Boolean attr1
 	 
-} 
+}  
