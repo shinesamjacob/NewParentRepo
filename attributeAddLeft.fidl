@@ -6,7 +6,7 @@ interface test {
 		minor 2
 	}
 	method Server { 
-		in{
+		in{ 
 			Int32 num1 
 			Int32 num2  
 		}
