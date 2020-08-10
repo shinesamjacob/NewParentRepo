@@ -16,7 +16,7 @@ interface test {
 	}
 	method Server5 { 
 		in{ 
-			Int32 num3 
+			Int32 num6
 			Int32 num2  
 		}
 		out {
