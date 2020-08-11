@@ -3,7 +3,7 @@ package com.harman.dcif
 interface test {
 	version {
 		major 0
-		minor 3
+		minor 4
 	}
 	method Server4 { 
 		in{ 
