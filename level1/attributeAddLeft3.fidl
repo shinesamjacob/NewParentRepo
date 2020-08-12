@@ -4,7 +4,7 @@ interface test {
 	version {
 		major 0
 		minor 1
-	}
+	}  
 	method Server { 
 		in{
 			Int32 num1 
