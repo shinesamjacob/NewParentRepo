@@ -3,7 +3,7 @@ package com.harman.dcif
 interface test {
 	version {
 		major 1
-		minor 15
+		minor 16
 	}
 	method Server4 { 
 		in{ 
@@ -16,7 +16,7 @@ interface test {
 	}
 	method Server1 { 
 		in{ 
-			Int32 num7
+			Int32 num72
 			Int32 num3
 		}
 		out {
