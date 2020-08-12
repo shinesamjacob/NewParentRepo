@@ -19,7 +19,7 @@ interface test {
 			Int32 num2
 			Int32 num3
 		} 
-		out {
+		out { 
 			Int32 res8
 		}
 	}
