@@ -14,11 +14,12 @@ interface test {
 
 typeCollection collections{
 	version{
-		major 9
+		major 10
 		minor 0
 	}
 	enumeration enum{
 		A
 		B
+		C
 	}
 }
