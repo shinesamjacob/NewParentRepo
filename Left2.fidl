@@ -14,7 +14,7 @@ interface test {
 
 typeCollection collections{
 	version{
-		major 11
+		major 10
 		minor 0
 	}
 	enumeration enum{
